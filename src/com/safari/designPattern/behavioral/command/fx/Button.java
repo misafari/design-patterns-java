@@ -1,4 +1,4 @@
-package com.safari.designPattern.command.fx;
+package com.safari.designPattern.behavioral.command.fx;
 
 public class Button {
     private String label;

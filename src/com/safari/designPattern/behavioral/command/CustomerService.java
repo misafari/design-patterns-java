@@ -1,4 +1,4 @@
-package com.safari.designPattern.command;
+package com.safari.designPattern.behavioral.command;
 
 public class CustomerService {
     public void addCustomer() {
